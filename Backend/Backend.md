@@ -2,15 +2,9 @@
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
-* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
-* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
-* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
-* [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.10.x/django.pdf) (PDF) (1.10)
-* [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
+* [Django 8 Hours Course](https://www.youtube.com/watch?v=JT80XhYJdBw)
+* [Django Official Documentation](https://docs.djangoproject.com/en/3.0/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
-* [Effective Django](http://www.effectivedjango.com) (1.5)
-* [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 
 
 #### Flask
