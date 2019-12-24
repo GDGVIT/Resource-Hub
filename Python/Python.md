@@ -12,7 +12,7 @@
 * [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. (email address *requested*, not required)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
-* [Composing Programs](http://composingprograms.com) (3.x)
+
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
@@ -24,47 +24,30 @@
 * [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
-  * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
-* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
-* [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
-* [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
-* [Learning to Program](http://www.alan-g.me.uk)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
-* [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
-* [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
-* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
 
-* [Picking a Python Version: A Manifesto](http://www.oreilly.com/programming/free/from-future-import-python.csp) (email address *requested*, not required)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
-* [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Everybody Exploring Data Using Python 3](http://py4e.com/book.php) - Charles Severance (PDF, EPUB, HTML)
-* [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
-* [Python Idioms](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf) (PDF)
 * [Python in Education](http://www.oreilly.com/programming/free/python-in-education.csp) (email address *requested*, not required)
-* [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
-
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
 
 * [Python Notes for Professionals](http://books.goalkicker.com/PythonBook/) - Compiled from StackOverflow documentation (3.x)
-
-* [Scipy Lecture Notes](http://scipy-lectures.github.io)
-* [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
 
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
 
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
-* [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Standard Python Library](http://effbot.org/librarybook/) - Fredrik Lundh
