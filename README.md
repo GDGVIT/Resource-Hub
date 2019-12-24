@@ -8,7 +8,7 @@ A Single spot for all the resources of any of the domain you want to learn
 
 [Blockchain](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Blockchain)
 
-[Design](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Appdev/Design)
+[Design](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Design)
 
 [Frontend](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Frontend)
 
