@@ -1,5 +1,6 @@
 ## Python Resources
 
+* [Road to Python- Starters Article](https://medium.com/datadriveninvestor/road-to-python-in-5-easy-steps-5c207117cc4e)
 * [20 Python Libraries You Aren't Using (But Should)](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp) (email address *requested*, not required)
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
