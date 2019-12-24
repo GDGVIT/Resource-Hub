@@ -10,46 +10,35 @@
 * [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
 * [Building Machine Learning Systems with Python](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms) - Willi Richert & Luis Pedro Coelho, Packt. (email address *requested*, not required)
-* [Building Skills in Object-Oriented Design (Python)](http://www.itmaybeahack.com/book/oodesign-python-2.1/latex/BuildingSkillsinOODesign.pdf) (PDF) (2.1.1)
-* [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) (PDF) (2.6)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [CodeCademy Python](https://www.codecademy.com/learn/python)
 * [Composing Programs](http://composingprograms.com) (3.x)
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
-  * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 * [From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [Full Stack Python](http://www.fullstackpython.com)
 * [Functional Programming in Python](http://www.oreilly.com/programming/free/functional-programming-python.csp) (email address *requested*, not required)
 * [Fundamentals of  Python Programming](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (3.2)
-* [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Hacking Secret Cyphers with Python](http://inventwithpython.com/hacking/chapters/) - Al Sweigart (3.3)
 * [Hadoop with Python](http://www.oreilly.com/programming/free/hadoop-with-python.csp) (email address *requested*, not required)
-* [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) - Mike Pirnat (PDF) (1st edition)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html) (3.2)
   * [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/) - Allen B. Downey, Jeff Elkner and Chris Meyers (2.4)
-  * [Think Python](http://www.greenteapress.com/thinkpython/) - Allen B. Downey (2.x & 3.0)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html#) - Muhammad Yasoob Ullah Khalid (1st edition)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
-  * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
-* [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
 * [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn to Program Using Python](https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF)
 * [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python) - Fabrizio Romano, Packt. (email address *requested*, not required)
 * [Learning to Program](http://www.alan-g.me.uk)
-
-* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/chapters/) - Al Sweigart (2.7)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
 * [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
 
 * [Picking a Python Version: A Manifesto](http://www.oreilly.com/programming/free/from-future-import-python.csp) (email address *requested*, not required)
-* [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - Bradley N. Miller and David L. Ranum
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
@@ -64,16 +53,16 @@
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
-  * [Python Module of the Week](https://pymotw.com/2/) (2.x)
+
 * [Python Notes for Professionals](http://books.goalkicker.com/PythonBook/) - Compiled from StackOverflow documentation (3.x)
 
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
-* [Suporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html) - Harry Percival (3.3 - 3.x)
-* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
+
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
-* [The Definitive Guide to Jython, Python for the Java Platform](http://www.jython.org/jythonbook/en/1.0) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
+
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Ecosystem: An Introduction](http://mirnazim.org/writings/python-ecosystem-introduction/)
