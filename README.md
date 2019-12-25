@@ -2,10 +2,10 @@
     <img src="static/images/gopher.png" width=20% />
 </p>
 
-<h1 align="center"> Resource Hub </h1>
 
 <div align="center">
     
+# Resource Hub
     
 One stop repository of resources for getting started with any of the mentioned domains
 <br>
