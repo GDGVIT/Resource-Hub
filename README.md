@@ -7,8 +7,7 @@
 <div align="center">
     
     
-A single spot for all the resources of any of the domain you want to learn.
-
+One stop repository of resources for getting started with any of the mentioned domains
 <br>
 
 [Appdev](./Appdev/Appdev.md)
