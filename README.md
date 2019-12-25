@@ -4,11 +4,12 @@
 
 <h1 align="center"> Resource Hub </h1>
 
+<div align="center">
+    
+    
 A single spot for all the resources of any of the domain you want to learn.
 
 <br>
-
-<div align="center">
 
 [Appdev](./Appdev/Appdev.md)
 
