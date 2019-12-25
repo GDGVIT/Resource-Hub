@@ -1,19 +1,34 @@
-# Resource-Hub
-A Single spot for all the resources of any of the domain you want to learn
+<p align="center">
+    <img src="static/images/gopher.png" width=20% />
+</p>
 
-  
-[Appdev](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Appdev)
+<h1 align="center"> Resource Hub </h1>
 
-[Backend](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Backend)
+A single spot for all the resources of any of the domain you want to learn.
 
-[Blockchain](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Blockchain)
+<br>
 
-[Design](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Design)
+<div align="center">
 
-[Frontend](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Frontend)
+[Appdev](./Appdev/Appdev.md)
 
-[ML](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/ML)
+[Backend](./Backend/Backend.md)
 
-[Python](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Python)
+[Blockchain](./Blockchain/Blockchain.md)
 
-[Security](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Security)
+[Design](./Design/Design.md)
+
+[Frontend](./Frontend/Frontend.md)
+
+[ML](./ML/ML.md)
+
+[Python](./Python/Python.md)
+
+[Security](./Security/Security.md)
+
+<br>
+
+Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
+
+</div>
+
