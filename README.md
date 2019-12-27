@@ -16,8 +16,6 @@ One stop repository of resources for getting started with any of the mentioned d
 
 [Blockchain](./Blockchain/Blockchain.md)
 
-[Design](./Design/Design.md)
-
 [Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
 
 [Frontend](./Frontend/Frontend.md)
