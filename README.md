@@ -28,6 +28,8 @@ One stop repository of resources for getting started with any of the mentioned d
 
 [IoT](./IoT/IoT.md)
 
+[DevOps](./DevOps/DevOps.md)
+
 <br>
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
