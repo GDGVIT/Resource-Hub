@@ -26,6 +26,8 @@ One stop repository of resources for getting started with any of the mentioned d
 
 [Security](./Security/Security.md)
 
+[IoT](./IoT/IoT.md)
+
 <br>
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
