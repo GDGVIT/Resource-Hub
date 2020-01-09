@@ -16,19 +16,19 @@ One stop repository of resources for getting started with any of the mentioned d
 
 [Blockchain](./Blockchain/Blockchain.md)
 
+[DevOps](./DevOps/DevOps.md)
+
 [Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
 
 [Frontend](./Frontend/Frontend.md)
+
+[IoT](./IoT/IoT.md)
 
 [ML](./ML/ML.md)
 
 [Python](./Python/Python.md)
 
 [Security](./Security/Security.md)
-
-[IoT](./IoT/IoT.md)
-
-[DevOps](./DevOps/DevOps.md)
 
 <br>
 
