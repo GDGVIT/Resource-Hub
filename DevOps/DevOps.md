@@ -2,8 +2,9 @@
 
 ### Getting Started
 
-* [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/devops.png)
 * [Learn bash scripting](https://www.codecademy.com/learn/learn-the-command-line/modules/bash-scripting)
+* [Advanced Bash616](http://tldp.org/LDP/abs/html/index.html)
 
 
 ### Containerization
