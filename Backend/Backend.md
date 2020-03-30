@@ -17,6 +17,7 @@
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 * [Important Tips in Flask](https://gist.github.com/1UC1F3R616/33c3d44536ff75ee2ad5974890b0f61e)
 * [SocketIO in Flask](https://gist.github.com/1UC1F3R616/78d5348b0d32586023f53c7b904d6a05)
+- [Flask Cheat-Sheet](https://github.com/1UC1F3R616/Flask-and-DB-Projects/files/4403125/flask_cheatsheet.pdf)
 
 
 #### Node JS
