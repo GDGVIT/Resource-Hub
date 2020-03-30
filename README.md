@@ -1,19 +1,38 @@
-# Resource-Hub
-A Single spot for all the resources of any of the domain you want to learn
+<p align="center">
+    <img src="static/images/gopher.png" width=20% />
+</p>
 
-  
-[Appdev](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Appdev)
 
-[Backend](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Backend)
+<div align="center">
+    
+# Resource Hub
+    
+One stop repository of resources for getting started with any of the mentioned domains
+<br>
 
-[Blockchain](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Blockchain)
+[Appdev](./Appdev/Appdev.md)
 
-[Design](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Design)
+[Backend](./Backend/Backend.md)
 
-[Frontend](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Frontend)
+[Blockchain](./Blockchain/Blockchain.md)
 
-[ML](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/ML)
+[DevOps](./DevOps/DevOps.md)
 
-[Python](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Python)
+[Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
 
-[Security](https://github.com/D-E-F-E-A-T/Resource-Hub/tree/master/Security)
+[Frontend](./Frontend/Frontend.md)
+
+[IoT](./IoT/IoT.md)
+
+[ML](./ML/ML.md)
+
+[Python](./Python/Python.md)
+
+[Security](./Security/Security.md)
+
+<br>
+
+Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
+
+</div>
+
