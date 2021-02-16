@@ -1,5 +1,7 @@
 ## Python Resources
 
+* [Python For Everybody Specialization(paid but financial aid available)](https://www.coursera.org/specializations/python)
+
 * [Road to Python- Starters Article](https://medium.com/datadriveninvestor/road-to-python-in-5-easy-steps-5c207117cc4e)
 
 * [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/) - Al Sweigart

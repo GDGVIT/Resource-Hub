@@ -1,5 +1,9 @@
 ## ML Resources
 
+#### Data Cleaning & Mining
+* [A Brief Introduction to Machine Learning for Engineers](https://drive.google.com/file/d/14y6IPpgYUC54ugTsKK4e4oUupXuvA38w/view?usp=sharing) - Ihab F.Illyas, Xu Chu (PDF)
+* [Data Mining - The Textbook](https://drive.google.com/file/d/1Skr308Tfh-v9OFsQ_61GUl5kSUZdtOVV/view?usp=sharing) - Springer(PDF)
+
 #### Machine Learning
 
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) - Osvaldo Simeone (PDF)

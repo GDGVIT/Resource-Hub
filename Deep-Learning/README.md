@@ -2,11 +2,13 @@
 
 > Before doing Deep Learning make sure one go through the Machine - Learning part given below to get the basics:
 
-### Machine Learning 
+### Machine Learning
 
 * [Machine Learning Free Course](https://www.coursera.org/learn/machine-learning)
 
 * [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+
+* [Machine Learning A-Z course(Udemy)(Paid)](https://www.udemy.com/course/machinelearning/)
 
 ### Deep Learning
 
@@ -30,3 +32,6 @@
 
 * [Keras Documentation](https://keras.io/)
 
+* [Deep Learning MIT](https://drive.google.com/file/d/1MoVa-cfVCW5JNgdSGR_5gnF2drsL76qx/view?usp=sharing) - Goodfellow, Bengio and Courville (PDF)
+
+* [Deep Learning with Python](https://drive.google.com/file/d/1kiKY_pKefUijvJCv1ruERquqmsxx6uzY/view?usp=sharing) - Francois Chollet (PDF)

@@ -1,7 +1,7 @@
 <img src="static/images/gopher.png" width="20%"/>
-    
+
 # Resource Hub
-    
+
 One stop repository of resources for getting started with any of the mentioned domains
 
 
@@ -10,6 +10,8 @@ One stop repository of resources for getting started with any of the mentioned d
 * [Backend](./Backend/README.md)
 
 * [Blockchain](./Blockchain/README.md)
+
+* [Design](./Design/README.md)
 
 * [DevOps](./DevOps/README.md)
 
@@ -37,6 +39,3 @@ One stop repository of resources for getting started with any of the mentioned d
 
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
-
-
-
