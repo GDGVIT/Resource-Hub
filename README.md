@@ -5,11 +5,15 @@
 One stop repository of resources for getting started with any of the mentioned domains
 
 
-* [Appdev](./Appdev/README.md)
+* [AppDev](./Appdev/README.md)
 
 * [Backend](./Backend/README.md)
 
 * [Blockchain](./Blockchain/README.md)
+
+* [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
+
+* [Deep Learning](./Deep-Learning/README.md)
 
 * [Design](./Design/README.md)
 
@@ -21,19 +25,15 @@ One stop repository of resources for getting started with any of the mentioned d
 
 * [IoT](./IoT/README.md)
 
+* [Java](./Java/README.md)
+
+* [JavaScript](./Javascript/README.md)
+
 * [ML](./ML/README.md)
 
 * [Python](./Python/README.md)
 
 * [Security](./Security/README.md)
-
-* [Java](./Java/README.md)
-
-* [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
-
-* [Deep-Learning](./Deep-Learning/README.md)
-
-* [Javascript](./Javascript/README.md)
 
 * [SQL](./SQL/README.md)
 

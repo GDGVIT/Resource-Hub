@@ -28,7 +28,5 @@
 ### VueJS
 
 * [Vue - The Complete Guide(Udemy)(paid)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-
 * [Vue3 Documentation](https://v3.vuejs.org/guide/introduction.html)
-=======
 * [FullStackOpen](https://fullstackopen.com/en/) - University of Helsinki
