@@ -4,9 +4,9 @@
 
 
 <div align="center">
-    
+
 # Resource Hub
-    
+
 One stop repository of resources for getting started with any of the mentioned domains
 <br>
 
@@ -17,6 +17,8 @@ One stop repository of resources for getting started with any of the mentioned d
 [Blockchain](./Blockchain/Blockchain.md)
 
 [DevOps](./DevOps/DevOps.md)
+
+[Design](./Design/Design.md)
 
 [Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
 
@@ -45,4 +47,3 @@ One stop repository of resources for getting started with any of the mentioned d
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
 
 </div>
-
