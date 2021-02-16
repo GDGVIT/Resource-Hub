@@ -1,4 +1,4 @@
-![Resource Gopher](static/images/gopher.png)
+<img src="static/images/gopher.png" width="20%"/>
     
 # Resource Hub
     
