@@ -5,35 +5,35 @@
 One stop repository of resources for getting started with any of the mentioned domains
 
 
-[Appdev](./Appdev/Appdev.md)
+* [Appdev](./Appdev/README.md)
 
-[Backend](./Backend/Backend.md)
+* [Backend](./Backend/README.md)
 
-[Blockchain](./Blockchain/Blockchain.md)
+* [Blockchain](./Blockchain/README.md)
 
-[DevOps](./DevOps/DevOps.md)
+* [DevOps](./DevOps/README.md)
 
-[Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
+* [Digital-Marketing](./Digital-Marketing/README.md)
 
-[Frontend](./Frontend/Frontend.md)
+* [Frontend](./Frontend/README.md)
 
-[IoT](./IoT/IoT.md)
+* [IoT](./IoT/README.md)
 
-[ML](./ML/ML.md)
+* [ML](./ML/README.md)
 
-[Python](./Python/Python.md)
+* [Python](./Python/README.md)
 
-[Security](./Security/Security.md)
+* [Security](./Security/README.md)
 
-[Java](./Java/java.md)
+* [Java](./Java/README.md)
 
-[Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/Resources.md)
+* [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
 
-[Deep-Learning](./Deep-Learning/Resources.md)
+[Deep-Learning](./Deep-Learning/README.md)
 
-[Javascript](./Javascript/Resources.md)
+[Javascript](./Javascript/README.md)
 
-[SQL](./SQL/Resources.md)
+[SQL](./SQL/README.md)
 
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
