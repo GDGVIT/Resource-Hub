@@ -24,4 +24,5 @@
 * [Node.js Video Tutorials- Beginner Level](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp "Net Ninja")
 * [Node.js Video Tutorials- Intermediate Level](http://nodetuts.com/index.html)
 * [Node.js Video Tutorials- Intermediate Level](http://nodetuts.com/index.html "Nodetuts.com")
-
+* [Node.js Video Tutorials- Beginner to Intermediate](https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
+* [Node.js course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)

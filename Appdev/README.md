@@ -6,6 +6,11 @@
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
 
+#### Some cool stuff in flutter
+
+* https://medium.com/flutter-community/flutter-animation-i-background-color-transition-39dcbada7335
+* https://github.com/josiahsrc/flutter_dough
+
 ### Android (Kotlin)
 
 * [Kotlin Notes for Professionals book](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation
