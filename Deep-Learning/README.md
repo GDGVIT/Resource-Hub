@@ -1,4 +1,6 @@
-###### Before doing Deep Learning make sure one go through the Machine - Learning part given below to get the basics:
+## Deep Learning Resources
+
+> Before doing Deep Learning make sure one go through the Machine - Learning part given below to get the basics:
 
 ### Machine Learning 
 
