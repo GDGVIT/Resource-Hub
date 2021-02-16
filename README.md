@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-<p align="center">
-    <img src="static/images/gopher.png" width=20% />
-</p>
-
-
-<div align="center">
-
-=======
 <img src="static/images/gopher.png" width="20%"/>
 
->>>>>>> a651279fec446e76ba16c3c334e04f960e5d3f0a
 # Resource Hub
 
 One stop repository of resources for getting started with any of the mentioned domains
@@ -21,13 +11,9 @@ One stop repository of resources for getting started with any of the mentioned d
 
 * [Blockchain](./Blockchain/README.md)
 
-<<<<<<< HEAD
-[Design](./Design/README.md)
+* [Design](./Design/README.md)
 
-[Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
-=======
 * [DevOps](./DevOps/README.md)
->>>>>>> a651279fec446e76ba16c3c334e04f960e5d3f0a
 
 * [Digital-Marketing](./Digital-Marketing/README.md)
 
@@ -53,10 +39,3 @@ One stop repository of resources for getting started with any of the mentioned d
 
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
-
-<<<<<<< HEAD
-</div>
-=======
-
-
->>>>>>> a651279fec446e76ba16c3c334e04f960e5d3f0a
