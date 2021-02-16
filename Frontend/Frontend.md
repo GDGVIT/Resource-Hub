@@ -24,3 +24,4 @@
 ### ReactJS
 
 * [Learn React](https://scrimba.com/learn/learnreact)
+* [FullStackOpen](https://fullstackopen.com/en/) - University of Helsinki
