@@ -11,6 +11,10 @@ One stop repository of resources for getting started with any of the mentioned d
 
 * [Blockchain](./Blockchain/README.md)
 
+* [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
+
+* [Deep-Learning](./Deep-Learning/README.md)
+
 * [Design](./Design/README.md)
 
 * [DevOps](./DevOps/README.md)
@@ -28,10 +32,6 @@ One stop repository of resources for getting started with any of the mentioned d
 * [Security](./Security/README.md)
 
 * [Java](./Java/README.md)
-
-* [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
-
-* [Deep-Learning](./Deep-Learning/README.md)
 
 * [Javascript](./Javascript/README.md)
 
