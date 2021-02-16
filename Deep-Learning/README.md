@@ -8,7 +8,7 @@
 
 * [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
 
-* [Machine Learning A-Z course](https://www.udemy.com/course/machinelearning/)
+* [Machine Learning A-Z course(Udemy)(Paid)](https://www.udemy.com/course/machinelearning/)
 
 ### Deep Learning
 
