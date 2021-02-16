@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="static/images/gopher.png" width=20% />
 </p>
@@ -5,45 +6,57 @@
 
 <div align="center">
 
+=======
+<img src="static/images/gopher.png" width="20%"/>
+
+>>>>>>> a651279fec446e76ba16c3c334e04f960e5d3f0a
 # Resource Hub
 
 One stop repository of resources for getting started with any of the mentioned domains
-<br>
 
-[Appdev](./Appdev/Appdev.md)
 
-[Backend](./Backend/Backend.md)
+* [Appdev](./Appdev/README.md)
 
-[Blockchain](./Blockchain/Blockchain.md)
+* [Backend](./Backend/README.md)
 
-[DevOps](./DevOps/DevOps.md)
+* [Blockchain](./Blockchain/README.md)
 
-[Design](./Design/Design.md)
+<<<<<<< HEAD
+[Design](./Design/README.md)
 
 [Digital-Marketing](./Digital-Marketing/Digital-Marketing.md)
+=======
+* [DevOps](./DevOps/README.md)
+>>>>>>> a651279fec446e76ba16c3c334e04f960e5d3f0a
 
-[Frontend](./Frontend/Frontend.md)
+* [Digital-Marketing](./Digital-Marketing/README.md)
 
-[IoT](./IoT/IoT.md)
+* [Frontend](./Frontend/README.md)
 
-[ML](./ML/ML.md)
+* [IoT](./IoT/README.md)
 
-[Python](./Python/Python.md)
+* [ML](./ML/README.md)
 
-[Security](./Security/Security.md)
+* [Python](./Python/README.md)
 
-[Java](./Java/java.md)
+* [Security](./Security/README.md)
 
-[Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/Resources.md)
+* [Java](./Java/README.md)
 
-[Deep-Learning](./Deep-Learning/Resources.md)
+* [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
 
-[Javascript](./Javascript/Resources.md)
+* [Deep-Learning](./Deep-Learning/README.md)
 
-[SQL](./SQL/Resources.md)
+* [Javascript](./Javascript/README.md)
 
-<br>
+* [SQL](./SQL/README.md)
+
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
 
+<<<<<<< HEAD
 </div>
+=======
+
+
+>>>>>>> a651279fec446e76ba16c3c334e04f960e5d3f0a
