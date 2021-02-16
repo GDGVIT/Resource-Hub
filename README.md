@@ -1,14 +1,9 @@
-<p align="center">
-    <img src="static/images/gopher.png" width=20% />
-</p>
-
-
-<div align="center">
+![Resource Gopher](static/images/gopher.png)
     
 # Resource Hub
     
 One stop repository of resources for getting started with any of the mentioned domains
-<br>
+
 
 [Appdev](./Appdev/Appdev.md)
 
@@ -40,9 +35,8 @@ One stop repository of resources for getting started with any of the mentioned d
 
 [SQL](./SQL/Resources.md)
 
-<br>
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
 
-</div>
+
 
