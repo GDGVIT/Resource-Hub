@@ -29,11 +29,11 @@ One stop repository of resources for getting started with any of the mentioned d
 
 * [Data-Structures-and-Algorithms](./Data-Structures-and-Algorithms/README.md)
 
-[Deep-Learning](./Deep-Learning/README.md)
+* [Deep-Learning](./Deep-Learning/README.md)
 
-[Javascript](./Javascript/README.md)
+* [Javascript](./Javascript/README.md)
 
-[SQL](./SQL/README.md)
+* [SQL](./SQL/README.md)
 
 
 Made with :heart: by [DSC-VIT](https://github.com/GDGVIT)
