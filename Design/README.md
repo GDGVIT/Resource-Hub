@@ -1,7 +1,4 @@
-## Design Resources
-
-
-
+# Design Resources
 ### UI/UX
 
 * [Learn Design (YouTube Playlist)](https://www.youtube.com/watch?v=WZQYt5HZ0-E&list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)

@@ -1,4 +1,4 @@
-## IoT Resources
+# IoT Resources
 
 * [IoT Full Course - Learn IoT in 4 Hours](https://www.youtube.com/watch?v=h0gWfVCSGQQ)
 

@@ -1,4 +1,4 @@
-## DevOps Resources
+# DevOps Resources
 
 ### Getting Started
 

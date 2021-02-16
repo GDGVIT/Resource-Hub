@@ -1,5 +1,4 @@
-
-## Digital Marketing Resources
+# Digital Marketing Resources
 
 ## Courses by Google
 

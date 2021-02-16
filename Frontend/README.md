@@ -1,4 +1,4 @@
-## Frontend Resources
+# Frontend Resources
 
 ### HTML / CSS
 

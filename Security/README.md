@@ -1,4 +1,4 @@
-## Security Resources
+# Security Resources
 
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)

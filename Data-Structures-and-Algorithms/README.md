@@ -1,4 +1,4 @@
-## DSA
+# DSA
 
 * [Learn DS & Algorithms by Programiz](https://www.programiz.com/dsa)
 

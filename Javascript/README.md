@@ -1,4 +1,4 @@
-## Javascript Resources
+# Javascript Resources
 
 * [Beginners Javascript Crash Course](https://youtu.be/PkZNo7MFNFg)
 

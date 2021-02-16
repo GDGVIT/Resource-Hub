@@ -1,4 +1,4 @@
-## Python Resources
+# Python Resources
 
 * [Python For Everybody Specialization(paid but financial aid available)](https://www.coursera.org/specializations/python)
 
