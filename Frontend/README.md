@@ -30,14 +30,16 @@
 
 ### VueJS
 
-* [Vue JS Crash course](https://www.youtube.com/watch?v=Law7wfdg_ls)
+* [Vue JS Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 * [Vue - The Complete Guide(Udemy)(paid)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 * [Vue3 Documentation](https://v3.vuejs.org/guide/introduction.html)
+* [Vuex Documentation](https://vuex.vuejs.org/)
 * [FullStackOpen](https://fullstackopen.com/en/) - University of Helsinki
 
 ### D3.js
 
-* [Mastering Data Visualisation using D3.js](https://www.udemy.com/course/masteringd3js/)
+* [Mastering Data Visualisation using D3.js(Udemy)(paid)](https://www.udemy.com/course/masteringd3js/)
+* [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 
 ### P5.js
 
