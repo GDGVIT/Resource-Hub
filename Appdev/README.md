@@ -20,6 +20,7 @@
 * [felixblaschke/supercharged: Supercharged brings all the comfort features from languages like Kotlin to all Flutter developers.](https://github.com/felixblaschke/supercharged)
 * [fluttercommunity/get_it: Get It - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App.](https://github.com/fluttercommunity/get_it)
 * [AutoRoute • Flutter Navigation Made Easy](https://autoroute.vercel.app/introduction)
+* [rafaelsetragni/awesome_notifications: A complete solution to create Local Notifications and Push Notifications, throught Firebase or another services, using Flutter.](https://github.com/rafaelsetragni/awesome_notifications)
 
 ### Android (Kotlin)
 
