@@ -9,7 +9,7 @@
 * [Flutter Gallery](https://gallery.flutter.dev/#/)
 * [Online IDE](https://flutlab.io/)
 * [Blog series](https://verygood.ventures/blog)
-* [Free Flutter Course](https://www.reddit.com/r/FlutterDev/comments/jqqlo2/the_free_complete_udemy_clone_course)
+* [Flutter Tutorial for Beginners](https://youtu.be/pTJJsmejUOQ)
 
 #### Useful Blogs
 
