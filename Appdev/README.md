@@ -5,11 +5,13 @@
 * [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+* [Flutter Codelabs & Workshops](https://flutter.dev/docs/codelabs)
+* [Flutter Gallery](https://gallery.flutter.dev/#/)
 * [Online IDE](https://flutlab.io/)
 * [Blog series](https://verygood.ventures/blog)
-* [Free Flutter Course](https://www.reddit.com/r/FlutterDev/comments/jqqlo2/the_free_complete_udemy_clone_course)
+* [Flutter Tutorial for Beginners](https://youtu.be/pTJJsmejUOQ)
 
-#### Medium Blogs
+#### Useful Blogs
 
 * [Flutter Animation I: Background Color Transition | by Divyanshu Bhargava | Flutter Community | Medium](https://medium.com/flutter-community/flutter-animation-i-background-color-transition-39dcbada7335)
 * [1 year in production with Flutter: lessons learned | by Kirill Bubochkin | MewsDevs | Medium](https://medium.com/mews-devs/1-year-in-production-with-flutter-lessons-learned-5de86723c5df)
@@ -23,6 +25,9 @@
 * [Dockerizing flutter apps](https://blog.codemagic.io/how-to-dockerize-flutter-apps/)
 * [Flutter internals: Skia Engine](https://levelup.gitconnected.com/flutters-skia-engine-takes-cross-platform-app-development-to-a-new-level-85cc5f92ca9b)
 * [ClojureDart, flutter in clojure](https://twitter.com/_eseidel/status/1350843738327707650)
+* [Functional error handling in Flutter & Dart](https://resocoder.com/2019/12/14/functional-error-handling-in-flutter-dart-2-either-task-fp/)
+* [Exploring the camera module in Flutter](https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
+* [Clean architecture in Flutter](https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/)
 
 #### Repos and Packages
 
@@ -33,6 +38,9 @@
 * [AutoRoute • Flutter Navigation Made Easy](https://autoroute.vercel.app/introduction)
 * [rafaelsetragni/awesome_notifications: A complete solution to create Local Notifications and Push Notifications, throught Firebase or another services, using Flutter.](https://github.com/rafaelsetragni/awesome_notifications)
 * [High-performant, web standards-compliant rendering engine based on flutter](https://github.com/openkraken)
+* [Easy Localization to internationalize your flutter app](https://pub.dev/packages/easy_localization)
+* [Hive - the no sql local database for flutter](https://docs.hivedb.dev/#/)
+
 
 ### Android (Kotlin)
 
