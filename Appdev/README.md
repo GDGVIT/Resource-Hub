@@ -10,6 +10,7 @@
 * [Online IDE](https://flutlab.io/)
 * [Blog series](https://verygood.ventures/blog)
 * [Flutter Tutorial for Beginners](https://youtu.be/pTJJsmejUOQ)
+* [Introduction to Animations](https://flutter.dev/docs/development/ui/animations)
 
 #### Useful Blogs
 
@@ -28,6 +29,8 @@
 * [Functional error handling in Flutter & Dart](https://resocoder.com/2019/12/14/functional-error-handling-in-flutter-dart-2-either-task-fp/)
 * [Exploring the camera module in Flutter](https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
 * [Clean architecture in Flutter](https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/)
+* [What’s New in Flutter 2 | by Chris Sells | Flutter | Medium](https://medium.com/flutter/whats-new-in-flutter-2-0-fe8e95ecc65)
+* [Video Calling In Flutter | by Shaiq Khan | Flutter | Medium](https://medium.com/flutterdevs/video-calling-in-flutter-7621ac5747dc)
 
 #### Repos and Packages
 
@@ -40,6 +43,7 @@
 * [High-performant, web standards-compliant rendering engine based on flutter](https://github.com/openkraken)
 * [Easy Localization to internationalize your flutter app](https://pub.dev/packages/easy_localization)
 * [Hive - the no sql local database for flutter](https://docs.hivedb.dev/#/)
+* [AgoraIO/Agora-Flutter-SDK: A quick solution to video calls using Flutter](https://github.com/AgoraIO/Agora-Flutter-SDK)
 
 
 ### Android (Kotlin)
