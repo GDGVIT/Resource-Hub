@@ -8,6 +8,7 @@
 * [Youtube series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
 * [Beginners guide to Django](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
 * [Making Blog API with Django](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS)
+* [CS50's Web Programming with Python and Javascript](https://cs50.harvard.edu/web/2020/)
 
 
 
