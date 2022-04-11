@@ -23,6 +23,8 @@ One stop repository of resources for getting started with any of the mentioned d
 
 * [Frontend](./Frontend/README.md)
 
+* [Git](./Git/README.md)
+
 * [IoT](./IoT/README.md)
 
 * [Java](./Java/README.md)
