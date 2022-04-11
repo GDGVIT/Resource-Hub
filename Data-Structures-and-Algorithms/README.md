@@ -19,3 +19,5 @@
 * [Mastering Data Structures with C++(paid)](https://www.udemy.com/course/datastructurescncpp/)
 
 * [Algorithm Specialization By Stanford(paid but financial aid available)](https://www.coursera.org/specializations/algorithms?)
+
+* [Data Structures by Niema Moshiri and Liz Izhikevich](https://stepik.org/course/579/promo)
