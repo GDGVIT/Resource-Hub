@@ -31,6 +31,8 @@ One stop repository of resources for getting started with any of the mentioned d
 
 * [ML](./ML/README.md)
 
+* [OS Dev](./OSDev/README.md)
+
 * [Python](./Python/README.md)
 
 * [Security](./Security/README.md)
