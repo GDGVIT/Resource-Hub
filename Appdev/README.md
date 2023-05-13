@@ -52,6 +52,7 @@
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [MAD Skills Playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7)
 * [Gurupreet/ComposeCookBook: A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential](https://github.com/Gurupreet/ComposeCookBook)
+* [Compose Playground](https://github.com/Vivecstel/Jetpack-Compose-Playground)
 
 ### iOS (Swift)
 
@@ -59,3 +60,4 @@
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Build a basic meal review app
 * [Getting started with SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui)
 * [Udemy Course for iOS Dev](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+* [SwiftUI Zero to Hero](https://www.youtube.com/@SwiftfulThinking)
