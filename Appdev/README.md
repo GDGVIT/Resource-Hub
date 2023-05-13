@@ -54,6 +54,10 @@
 * [Gurupreet/ComposeCookBook: A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential](https://github.com/Gurupreet/ComposeCookBook)
 * [Compose Playground](https://github.com/Vivecstel/Jetpack-Compose-Playground)
 
+#### Android Libraries / Utils
+* [OkHttp and Interceptors](https://www.linkedin.com/pulse/interceptors-okhttp-mohamad-abuzaid/)
+* [Chucker Library](https://github.com/ChuckerTeam/chucker) - Logs all requests and responses of API calls.
+
 ### iOS (Swift)
 
 * [Getting Started with Swift](https://swift.org/getting-started/)
