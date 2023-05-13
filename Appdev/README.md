@@ -53,6 +53,10 @@
 * [MAD Skills Playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc91i2QT8qfrfKgLNlJiG1z7)
 * [Gurupreet/ComposeCookBook: A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential](https://github.com/Gurupreet/ComposeCookBook)
 
+#### Android Libraries / Utils
+* [OkHttp and Interceptors](https://www.linkedin.com/pulse/interceptors-okhttp-mohamad-abuzaid/)
+* [Chucker Library](https://github.com/ChuckerTeam/chucker) - Logs all requests and responses of API calls.
+
 ### iOS (Swift)
 
 * [Getting Started with Swift](https://swift.org/getting-started/)
