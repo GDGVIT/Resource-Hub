@@ -61,3 +61,4 @@
 * [Getting started with SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui)
 * [Udemy Course for iOS Dev](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 * [SwiftUI Zero to Hero](https://www.youtube.com/@SwiftfulThinking)
+* [WidgetKit Master Class](https://youtu.be/E0iOm1_WkJk)
