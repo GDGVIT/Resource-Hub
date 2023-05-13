@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-* [DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/devops.png)
+* [DevOps Roadmap](https://roadmap.sh/devops)
 * [Learn bash scripting](https://www.codecademy.com/learn/learn-the-command-line/modules/bash-scripting)
 * [Advanced Bash616](http://tldp.org/LDP/abs/html/index.html)
 
